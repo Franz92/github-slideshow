@@ -1,6 +1,5 @@
 #!/bin/sh
 
 set -e
-set -e
 
 bundle exec jekyll serve "$@"
